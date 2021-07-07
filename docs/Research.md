@@ -1,3 +1,9 @@
+---
+title: "Research"
+permalink: /docs/research/
+
+---
+
 # Contributing to the Minimal theme
 
 Hi there! We're thrilled that you'd like to contribute to the Minimal theme. Your help is essential for keeping it great.

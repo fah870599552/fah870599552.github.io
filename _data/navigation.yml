@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "CV"
-    url: /assets/Austin_Knies_CV.pdf
+    url: "/assets/Austin_Knies_CV.pdf"
   - title: "Research"
   - title: "Teaching"
   - title: "About Me"

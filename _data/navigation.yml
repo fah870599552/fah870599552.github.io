@@ -3,7 +3,7 @@ main:
   - title: "CV"
     url: /Austin_Knies_CV.pdf
   - title: "Research"
-    url: /docs/
+    url: https://github.com/austinknies/austinknies.github.io/blob/d5bb37651ea78a64952c4b27157b41dd47007446/Research.md
   - title: "Teaching"
   - title: "About Me"
   # - title: "Quick-Start Guide"

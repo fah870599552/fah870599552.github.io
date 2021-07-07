@@ -89,7 +89,13 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://github.com/austinknies"
+    - "https://twitter.com/Austin_Knies"
+    - "https://www.linkedin.com/in/austinknies/"  
+  
+  
+  # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -125,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/austinknies/"
 
 # Site Footer
 footer:
@@ -147,6 +156,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/austinknies/"
 
 
 # Reading Files

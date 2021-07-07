@@ -283,7 +283,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false # mark true if you want an est. read time in front of a worded post
       comments: # true
       share: true
       related: true

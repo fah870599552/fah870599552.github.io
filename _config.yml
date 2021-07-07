@@ -111,7 +111,9 @@ author:
   avatar           : "/assets/images/Knies.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Economics Ph.D. Student\n
                     
-                    Indiana University"
+                    Indiana University\n
+                    
+                    *Research Interests*: Applied Microeconomics, Health Economics, Economics of Information, Networks"
   location         : "Bloomington, IN"
   email            : #"ausknies@iu.edu"
   links:

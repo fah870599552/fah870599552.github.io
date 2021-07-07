@@ -140,13 +140,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/Austin_Knies"
+      # url: "https://twitter.com/Austin_Knies"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/austinknies"
+      # url: "https://github.com/austinknies"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/austinknies/"
+      # url: "https://www.linkedin.com/in/austinknies/"
 
 
 # Reading Files

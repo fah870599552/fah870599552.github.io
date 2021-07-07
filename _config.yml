@@ -109,7 +109,9 @@ analytics:
 author:
   name             : "Austin Knies"
   avatar           : "/assets/images/Knies.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Economics Ph.D. Student>Indiana University"
+  bio              : >
+                     Economics Ph.D. Student
+                     Indiana University
   location         : "Bloomington, IN"
   email            : "ausknies@iu.edu"
   links:
@@ -121,7 +123,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/Austin_Knies"
+      # url: "https://twitter.com/Austin_Knies"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"

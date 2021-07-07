@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Austin Knies"
   avatar           : "/assets/images/Knies.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Economics Ph.D. Student \n Indiana University"
+  bio              : "Economics Ph.D. Student\nIndiana University"
   location         : "Bloomington, IN"
   email            : # "ausknies@iu.edu"
   links:

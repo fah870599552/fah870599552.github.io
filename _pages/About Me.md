@@ -12,4 +12,4 @@ Outside of work, I love spending time with my wife Hannah, who currently teaches
 
 ![Olan](/assets/images/olie.jpg)
 
-When I was much younger and cooler, I spent time performing with a metalcore band called They Will Fall. While doing this, I also booked and promoted shows in the DIY music scene in north Louisiana. This role gave me the opportunity to travel and meet a lot of wonderful, interesting people, and so I really value and treasure the memories from this unique time in my life.
+One exceptionally weird fact about me: when I was much younger and cooler, I spent time performing with a metalcore band called They Will Fall. While doing this, I also booked and promoted shows in the DIY music scene in north Louisiana. This role gave me the opportunity to travel and meet a lot of wonderful, interesting people, and so I really value and treasure the memories from this unique time in my life.

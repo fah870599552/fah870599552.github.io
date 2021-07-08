@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "CV"
     url: /Austin_Knies_CV.pdf
   - title: "Research"

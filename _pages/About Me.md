@@ -8,7 +8,7 @@ Hi! My name is Austin Knies. I grew up in West Monroe, Louisiana, and I received
 
 ![Fam](/assets/images/fam.jpg)
 
-Outside of work, I love spending time with my wife Hannah, who currently teaches middle school English, and my dog Olan, who currently is asleep on the couch. I enjoy shooting hoops, hiking, running, rock climbing, traveling, and trying new foods. I'm a big fan of the NBA and root for the Indiana Pacers. 
+Outside of work, I love spending time with my wife Hannah, who currently teaches middle school English, and my dog Olan, who currently is asleep on the couch. I enjoy shooting hoops, hiking, running, rock climbing, traveling, and trying new foods. I'm a big fan of NBA basketball and root for the Indiana Pacers. 
 
 ![Olan](/assets/images/olie.jpg)
 

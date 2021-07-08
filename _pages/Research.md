@@ -4,13 +4,11 @@ permalink: /research/
 
 ---
 
-# Research
-
 *Research interests*: Applied Microeconomics, Health Economics, Economics of Information, Networks
 
 ## Working Papers
 
-- ["Effects of Public Price Transparency Tools on Shopping for Health Care"](Effects_PriceTransparency_SFC_Knies2021.pdf) (Latest Draft: *June 2021*)
+- ["Effects of Public Price Transparency Tools on Shopping for Health Care"](https://austinknies.github.io/Effects_PriceTransparency_SFC_Knies2021.pdf) (Latest Draft: *June 2021*)
   
    ***Working Paper***
 

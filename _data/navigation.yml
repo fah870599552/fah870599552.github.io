@@ -5,9 +5,9 @@ main:
   - title: "Research"
     url: /docs/research/
   - title: "Teaching"
-    url: /docs/Teaching/
+    url: /docs/teaching/
   - title: "About Me"
-    url: /docs/About Me/
+    url: /docs/aboutme/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

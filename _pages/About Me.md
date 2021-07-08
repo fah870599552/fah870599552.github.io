@@ -10,7 +10,7 @@ Hi! My name is Austin Knies. I grew up in West Monroe, Louisiana, and I received
 
 Outside of work, I love spending time with my wife Hannah, who currently teaches middle school English, and my dog Olan, who currently is asleep on the couch. I enjoy shooting hoops, hiking, running, rock climbing, traveling, and trying new foods. I'm a big fan of NBA basketball and root for the Indiana Pacers. 
 
-![Olan](/assets/images/olie.jpg) ![Olan](/assets/images/olan-1.jpg) ![Olan](/assets/images/olan-2.jpg) ![Olan](/assets/images/olan-3.jpg) ![Lake](/assets/images/lake.jpg)
+![Olan](/assets/images/olan.jpg) ![Olan](/assets/images/olan-1.jpg) ![Olan](/assets/images/olan-2.jpg) ![Olan](/assets/images/olan-3.jpg) ![Lake](/assets/images/lake.jpg)
 
 One exceptionally weird fact about me: when I was much younger and cooler, I spent time performing with a metalcore band called They Will Fall. While doing this, I also booked and promoted shows in the DIY music scene in north Louisiana. This role gave me the opportunity to travel and meet a lot of wonderful, interesting people, and so I really value and treasure the memories from this unique time in my life.
 

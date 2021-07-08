@@ -3,11 +3,11 @@ main:
   - title: "CV"
     url: /Austin_Knies_CV.pdf
   - title: "Research"
-    url: /docs/research/
+    url: /research/
   - title: "Teaching"
-    url: /docs/teaching/
+    url: /teaching/
   - title: "About Me"
-    url: /docs/aboutme/
+    url: /aboutme/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

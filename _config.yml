@@ -150,7 +150,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - /docs
+  - _pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -176,7 +176,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - # /docs # ignore Minimal Mistakes /docs
+  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git

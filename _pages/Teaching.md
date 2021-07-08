@@ -15,3 +15,5 @@ permalink: /teaching/
   Format: In Person (prior to March 2020)
   
   **Fall 2019, Spring 2020**
+
+Syllabi available upon request.

@@ -4,16 +4,21 @@ permalink: /research/
 
 ---
 
-# Contributing to the Minimal theme
+# Research
 
-Hi there! We're thrilled that you'd like to contribute to the Minimal theme. Your help is essential for keeping it great.
+*Research interests*: Applied Microeconomics, Health Economics, Economics of Information, Networks
 
-the Minimal theme is an open source project supported by the efforts of an entire community and built one contribution at a time by users like you. We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, helping other users by commenting on issues, or writing code which can be incorporated into the Minimal theme itself.
+## Working Papers
 
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+- ["A Recursive Logit Model with Choice Aversion and Its Application to Transportation Networks."](https://arxiv.org/pdf/2010.02398.pdf) (Latest Draft: *April 2021*)
 
+   Co-authors: Jorge Lorca, Emerson Melo
+   
+   **Submitted to Transportation Research Part B: Methodological**
+- "Effects of Public Price Transparency Tools on Shopping for Health Care"  (Latest Draft: *June 2021*)
+  
+   ***Working Paper***
 
-## Looking for support?
 
 We'd love to help. Check out [the support guidelines](SUPPORT.md).
 

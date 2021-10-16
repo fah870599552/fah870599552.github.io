@@ -6,6 +6,12 @@ permalink: /teaching/
 
 - ECON-E 251, *Fundamentals of Economics I*, Indiana University
 
+  Format: In-Person
+  
+  **Fall 2021**
+
+- ECON-E 251, *Fundamentals of Economics I*, Indiana University
+
   Format: Online/Asynchronous
   
   **Fall 2020, Spring 2021**

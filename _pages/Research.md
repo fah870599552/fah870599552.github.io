@@ -12,7 +12,7 @@ permalink: /research/
 
    Co-authors: Jorge Lorca, Emerson Melo
    
-   **Submitted to Transportation Research Part B: Methodological**
+   **Forthcoming at Transportation Research Part B: Methodological**
    
    [[Code](https://github.com/austinknies/choiceaversion_recursivelogit)]
 

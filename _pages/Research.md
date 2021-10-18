@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Research Papers
 
-- ["A Recursive Logit Model with Choice Aversion and Its Application to Transportation Networks."](https://arxiv.org/pdf/2010.02398.pdf) (Latest Draft: *August 2021*)
+- ["A Recursive Logit Model with Choice Aversion and Its Application to Transportation Networks."](https://arxiv.org/pdf/2010.02398.pdf) (Latest Draft: *October 2021*)
 
    Co-authors: Jorge Lorca, Emerson Melo
    

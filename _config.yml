@@ -20,7 +20,7 @@ title                    : "Austin Knies"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Austin Knies"
-description              : "Just learning more about how little I know." #
+description              : "Austin Knies - Personal and Academic Website." #
 url                      : "https://austinknies.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : austinknies/austinknies.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

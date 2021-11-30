@@ -6,15 +6,17 @@ permalink: /research/
 
 *Research interests*: Applied Microeconomics, Health Economics, Economics of Information, Networks
 
-## Research Papers
+## Publications
 
-- ["A Recursive Logit Model with Choice Aversion and Its Application to Transportation Networks."](https://arxiv.org/pdf/2010.02398.pdf) (Latest Draft: *October 2021*)
+- ["A Recursive Logit Model with Choice Aversion and Its Application to Transportation Networks."](https://doi.org/10.1016/j.trb.2021.10.011) (2022)
 
    Co-authors: Jorge Lorca, Emerson Melo
    
-   **Forthcoming at Transportation Research Part B: Methodological**
+   **Transportation REsearch Part B: Methodological, Volume 155, January 2022, Pages 47-71**
    
    [[Code](https://github.com/austinknies/choiceaversion_recursivelogit)]
+
+## Ongoing Research
 
 - ["Effects of Public Price Transparency Tools on Shopping for Health Care"](https://austinknies.github.io/Effects_PriceTransparency_SFC_Knies2021.pdf) (Latest Draft: *June 2021*)
   

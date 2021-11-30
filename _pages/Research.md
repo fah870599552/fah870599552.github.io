@@ -12,7 +12,7 @@ permalink: /research/
 
    Co-authors: Jorge Lorca, Emerson Melo
    
-   **Transportation REsearch Part B: Methodological, Volume 155, January 2022, Pages 47-71**
+   **Transportation Research Part B: Methodological, Volume 155, January 2022, Pages 47-71**
    
    [[Code](https://github.com/austinknies/choiceaversion_recursivelogit)]
 

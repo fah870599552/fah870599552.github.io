@@ -6,7 +6,7 @@ permalink: /aboutme/
 
 Hi! My name is Austin Knies. I grew up in West Monroe, Louisiana, and I received a B.S. in Mathematics and a B.S. in Business Economics from Louisiana Tech University ('17). 
 
-I am currently a fourth-year Economics Ph.D. student at Indiana University in Bloomington, Indiana. My research interests are in applied microeconomics, namely health economics, the economics of information, and networks. 
+I am currently a fifth-year Economics Ph.D. student at Indiana University in Bloomington, Indiana. My research interests are in applied microeconomics, namely the economics of health, information, and transportation. 
 
 You can find more information about my research, past and present, under the [Research](/research/) section of this website. You can also [download my CV](/Austin_Knies_CV.pdf) for more details.
 

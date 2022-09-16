@@ -4,7 +4,7 @@ permalink: /research/
 
 ---
 
-*Research interests*: Applied Microeconomics, Health Economics, Economics of Information, Networks
+*Research interests*: Applied Microeconomics, Health Economics, Information Frictions, Transportation
 
 ## Publications
 

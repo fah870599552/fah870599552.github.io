@@ -18,6 +18,6 @@ permalink: /research/
 
 ## Ongoing Research
 
-- ["Effects of Public Price Transparency Tools on Shopping for Health Care"](https://austinknies.github.io/Effects_PriceTransparency_SFC_Knies2022.pdf) (Latest Draft: *July 2022*)
+- ["Effects of Public Price Transparency Tools on Shopping for Health Care"](https://austinknies.github.io/Effects_PriceTransparency_SFC_Knies2023.pdf) (Latest Draft: *February 2023*)
   
    ***Working Paper***

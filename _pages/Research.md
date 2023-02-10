@@ -28,7 +28,7 @@ permalink: /research/
 
    Collaborators: Jonathan Leslie
    
-   Created for Erdős Institute's Fall 2022 Cőde Data Science Boot Camp
+   Created for Erdős Institute's Fall 2022 Code Data Science Boot Camp
    
    [[Code](https://github.com/austinknies/fall22-bloom)] 
    [[Slides](https://github.com/austinknies/fall22-bloom/blob/main/Slides.pdf)]

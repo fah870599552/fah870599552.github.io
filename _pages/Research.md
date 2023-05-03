@@ -7,6 +7,8 @@ classes: wide
 
 *Research interests*: Applied Microeconomics, Health Economics, Information Frictions
 
+I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana. My research interests are in applied microeconomics and specifically in health economics and information frictions. My work focuses on the role of information in health care in settings such as telehealth and telemedicine usage, price transparency regulation, and choice of insurance coverage.
+
 ## Publications
 
 - ["A Recursive Logit Model with Choice Aversion and Its Application to Transportation Networks."](https://doi.org/10.1016/j.trb.2021.10.011) (2022)

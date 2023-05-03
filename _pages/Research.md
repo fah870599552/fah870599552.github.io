@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-*Research interests*: Applied Microeconomics, Health Economics, Information Frictions, Transportation
+*Research interests*: Applied Microeconomics, Health Economics, Information Frictions
 
 ## Publications
 

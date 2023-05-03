@@ -21,6 +21,8 @@ I enjoy shooting hoops, hiking, running, rock climbing, traveling, and trying ne
 A fun fact about me: prior to being a Ph.D. student, I spent time performing with a metalcore band called They Will Fall. While doing this, I also booked and promoted shows in the DIY music scene in north Louisiana. This role gave me the opportunity to travel and meet a lot of wonderful, interesting people, and so I really value and treasure the memories from this unique time in my life.
 
 <img src="/assets/images/oxford.jpg" alt="Monroe" width="900"/> <br/> 
-<img src="/assets/images/omaha.jpg" alt="Omaha" width="450"/> <img src="/assets/images/ia.jpg" alt="Friends" width="450"/> <br/>
+<img src="/assets/images/omaha.jpg" alt="Omaha" width="450"/> <img src="/assets/images/ia.jpg" alt="IAxTWF" width="450"/> <br/>
 <img src="/assets/images/shreveport.jpg" alt="Shreveport" width="900"/> <br/>
+<img src="/assets/images/br.jpg" alt="Baton Rouge" width="900"/> <br/>
+<img src="/assets/images/aptwf.jpg" alt="APxTWF" width="450"/> <img src="/assets/images/brofest.jpg" alt="Brofest" width="450"/> <br/>
 <img src="/assets/images/monroe.jpg" alt="Oxford" width="900"/>

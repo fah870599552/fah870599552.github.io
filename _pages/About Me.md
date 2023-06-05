@@ -13,7 +13,7 @@ I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana.
 <br/> 
 <img src="/assets/images/lake.jpg" alt="Lake" width="900"/>
 
-Outside of work, I love spending time with my wife Hannah, who currently teaches middle school English, and my dog Olan, who currently is asleep on the couch. 
+Outside of work, I love spending time with my wife Hannah, who is a middle school Language Arts/STEAM teacher and fabrication lab facilitator, and my dog Olan, who currently is asleep on the couch. 
 
 I enjoy shooting hoops, hiking, running, rock climbing, traveling, and trying new foods. I'm a big fan of NBA basketball and root for the Indiana Pacers. 
 

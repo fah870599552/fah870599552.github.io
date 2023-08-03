@@ -9,6 +9,12 @@ classes: wide
 
 I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana. My research interests are in applied microeconomics and specifically in health economics and information frictions. My work focuses on the role of information in health care in settings such as telehealth and telemedicine usage, price transparency regulation, and choice of insurance coverage.
 
+## Job Market Paper
+
+- ["Health Outcomes, Information Costs, and the Rise of Telehealth during the COVID-19 Pandemic"](https://austinknies.github.io/AK_RiseofTelehealth_WP.pdf) (Latest Draft: *August 2023*)
+
+   **Abstract**: How has the increase in synchronous telemedicine services throughout the COVID-19 pandemic impacted patient health outcomes? Using 2018-2022q1 claims data from Optum’s de-identified Clinformatics®️ Data Mart Database, I examine differences in telehealth and face-to-face care for office and outpatient evaluation and management (E/M) service claims, where telehealth coding has been the most frequent. Telehealth usage is associated with higher likelihood of patient mortality and ER visit within 6 months of E/M service claim, where I find an average effect of 5 additional deaths and 13 additional ER visits per 1,000 patients in the post-March 2020 period. To explain observed differences in health outcomes across visit modalities, I model the physician-patient interaction as a costly information acquisition problem, where rationally inattentive physicians learn about the patient’s health status through costly signals. Estimated increases in information costs with telehealth usage range between 5 to 29 percent on average after March 2020. These findings quantify the consequences of using telehealth as a substitute for in-person care.
+
 ## Publications
 
 - ["A Recursive Logit Model with Choice Aversion and Its Application to Transportation Networks."](https://doi.org/10.1016/j.trb.2021.10.011) (2022)
@@ -20,10 +26,6 @@ I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana.
    [[Code](https://github.com/austinknies/choiceaversion_recursivelogit)]
 
 ## Working Papers
-
-- ["Physician Information Costs and the Rise of Telehealth during the COVID-19 Pandemic"](https://austinknies.github.io/AK_PhysicianInformationCosts_WP.pdf) (Latest Draft: *May 2023*)
-
-   **Abstract**: The use of synchronous telemedicine services rose dramatically during the COVID-19 pandemic, but to what extent should telehealth be used going forward? Using 2018-2022q1 claims data from Optum’s de-identified Clinformatics®️ Data Mart Database, I characterize the evolution of telehealth and face-to-face modalities for office and outpatient evaluation and management (E/M) service claims, where telehealth coding has been the most frequent. I find telehealth usage is associated with higher likelihood of patient mortality and ER visit within 6 months of E/M service claim, with strongest impact for Medicare Advantage plan members, for established patients, and for patients with no referring provider. To explain these findings, I model the physician-patient interaction as a costly information acquisition problem, where rationally inattentive physicians learn about the patient’s health status through costly signals. In doing so, I provide a mechanism to explain differences in health outcomes and quantify differences in information costs across visit modalities. Estimated average increases in physician information costs range between 5 to 29 percent with telehealth usage after March 2020. These findings reinforce existing literature that suggest telehealth is best used when expanding access to care for low-risk patients and as a complement rather than a substitute to in-person care.
 
 - ["Effects of Public Price Transparency Tools on Shopping for Health Care"](https://austinknies.github.io/Effects_PriceTransparency_SFC_Knies2023.pdf) (Latest Draft: *February 2023*)
   
@@ -43,13 +45,11 @@ I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana.
 
 ## Experience
 
-- Research Assistant for Angela Campbell, School of Public Health, Indiana University
-
-   *Summer 2023 - Present*
+- Research Assistant for Angela Campbell, School of Public Health, Indiana University (*Summer 2023 - Present*)
 
 ## Additional Projects
 
-- ["Fraud Detection with Medicare Provider Data"](https://github.com/austinknies/fall22-bloom/blob/main/Executive%20Summary.pdf) (2022)
+- ["Fraud Detection with Medicare Provider Data"](https://github.com/austinknies/fall22-bloom/blob/main/Executive%20Summary.pdf) (*2022*)
 
    Collaborators: Jonathan Leslie
    

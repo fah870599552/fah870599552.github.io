@@ -9,7 +9,7 @@ Hi! My name is Austin Knies. I grew up in West Monroe, Louisiana, and I received
 
 I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana. My research interests are in applied microeconomics and specifically in health economics and information frictions. My work focuses on the role of information in health care in settings such as telehealth and telemedicine usage, price transparency regulation, and choice of insurance coverage.
 
-<img src="/assets/images/fam.jpg" alt="Fam" width="900"/> <br/> 
+<img src="/assets/images/aboutme_sg.jpg" alt="Fam" width="900"/> <br/> 
 <br/> 
 <img src="/assets/images/lake.jpg" alt="Lake" width="900"/>
 

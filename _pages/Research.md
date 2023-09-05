@@ -27,7 +27,7 @@ I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana.
 
 ## Working Papers
 
-- ["Effects of Public Price Transparency Tools on Shopping for Health Care"](https://austinknies.github.io/Effects_PriceTransparency_SFC_Knies2023.pdf) (Latest Draft: *February 2023*)
+- ["Effects of Public Price Transparency Tools on Shopping for Health Care"](https://austinknies.github.io/Effects_PriceTransparency_SFC_Knies2023.pdf) (Latest Draft: *September 2023*)
   
 ## Works in Progress
 

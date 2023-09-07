@@ -13,13 +13,13 @@ I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana.
 <br/> 
 <img src="/assets/images/lake.jpg" alt="Lake" width="900"/>
 
-Outside of work, I love spending time with my wife Hannah, who is a middle school Language Arts/STEAM teacher and fabrication lab facilitator, and my dog Olan, who currently is asleep on the couch. 
+Outside of work, I love spending time with my wife Hannah, who is a middle school Language Arts/STEAM teacher and fabrication lab facilitator, and my dog Olan, who is asleep on the couch. 
 
 I enjoy shooting hoops, hiking, running, rock climbing, traveling, and trying new foods. I'm a big fan of NBA basketball and root for the Indiana Pacers. 
 
 <img src="/assets/images/olan.jpg" alt="Olan" width="300"/> <img src="/assets/images/olan-1.jpg" alt="Olan" width="300"/> <img src="/assets/images/olan-2.jpg" alt="Olan" width="300"/> <br/>
 
-A fun fact about me: prior to being a Ph.D. student, I spent time performing with a metalcore band called They Will Fall. While doing this, I also booked and promoted shows in the DIY music scene in north Louisiana. This role gave me the opportunity to travel and meet a lot of wonderful, interesting people, and so I really value and treasure the memories from this unique time in my life.
+A fun fact about me: prior to being a Ph.D. student, I spent time performing with a metalcore band called They Will Fall. While doing this, I also booked and promoted shows in the DIY music scene in north Louisiana. Doing this for several years shaped who I am as a person in a variety of ways, and so I really treasure the memories from this part of my life.
 
 <img src="/assets/images/oxford.jpg" alt="Monroe" width="900"/> <br/> 
 <br/> 

@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "default", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Austin Knies"
+title                    : "Lanyue Tang"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Austin Knies"
-description              : "Austin Knies - Personal and Academic Website." #
-url                      : "https://austinknies.github.io" # the base hostname & protocol for your site
+name                     : "Lanyue Tang"
+description              : "Lanyue Tang - Personal and Academic Website." #
+url                      : "https://fah870599552.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : austinknies/austinknies.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : fah870599552/fah870599552.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title

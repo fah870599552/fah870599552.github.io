@@ -5,7 +5,7 @@ classes: wide
 
 ---
 
-Hi! My name is Austin Knies. I grew up in West Monroe, Louisiana, and I received a B.S. in Mathematics and a B.S. in Business Economics from Louisiana Tech University ('17). 
+Hi! My name is Lanyue Tang. I grew up in West Monroe, Louisiana, and I received a B.S. in Mathematics and a B.S. in Business Economics from Louisiana Tech University ('17). 
 
 I am an Economics Ph.D. Candidate at Indiana University in Bloomington, Indiana. My research interests are in applied microeconomics and specifically in health economics and information frictions. My work focuses on the role of information in health care in settings such as telehealth and telemedicine usage, price transparency regulation, and choice of insurance coverage.
 

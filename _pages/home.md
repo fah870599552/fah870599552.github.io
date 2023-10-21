@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/mainPicture.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Download CV"
-      url: "/Austin_Knies_CV.pdf"
+      url: "/TangLanYueCV.pdf"
 excerpt: >
   Just learning more about how little I know.
 feature_row:

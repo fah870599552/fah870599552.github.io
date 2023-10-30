@@ -108,12 +108,12 @@ analytics:
 # Site Author
 author:
   name             : "Lanyue Tang"
-  avatar           : "/assets/images/Knies_sg_hs25.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/mainPicture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Transportation Engineering Master Candidate\n
                     
-                    Indiana University\n
+                    Tongji University\n
                     
-                    **Research Interests**: Applied Microeconomics, Health Economics, Information Frictions"
+                    **Research Interests**: Deep learning and its transportation application, Traffic Flow Theory and Simulation Analysis"
   location         : "Bloomington, IN"
   email            : #"ausknies@iu.edu"
   links:

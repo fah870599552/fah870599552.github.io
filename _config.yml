@@ -114,12 +114,12 @@ author:
                     Tongji University\n
                     
                     **Research Interests**: Deep learning and its transportation application, Traffic Flow Theory and Simulation Analysis"
-  location         : "Bloomington, IN"
-  email            : #"ausknies@iu.edu"
+  location         : "Shanghai, China"
+  email            : #"2133393@tongji.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ausknies@iu.edu"
+      url: "mailto:2133393@tongji.edu.cn"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/austinknies/"    
@@ -135,7 +135,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ausknies@iu.edu"
+      url: "mailto:2133393@tongji.edu.cn"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/austinknies/"    

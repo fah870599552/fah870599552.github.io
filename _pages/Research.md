@@ -45,4 +45,4 @@ Liu, S., Zhang, Q., Wang, P., Feng, B., Huang, C., Zhang, Y., **Tang, L.**, Yue,
 
 Fu, A., Zhang, H., **Tang, L.**, Tian, Y. * (2023), Accelerated Verification of Autonomous Driving Systems based on Subset Simulation, Transportation Research Board 103rd Annual Meeting (TRB).
 
-![](/assets/images/图片1.gif)
+![](/assets/images/image36.gif)

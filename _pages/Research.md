@@ -14,10 +14,8 @@ classes: wide
 - A driver trajectory prediction method addresses the false alarm of the active safety system by considering the influence of the driver's abnormal emotions.
 - The prediction model takes into account both the physical movement features and cognitive features, and the accuracy of the prediction method is verified through realistic driving simulator experiments.
 
-<img src="/assets/images/experimentDesign.png" alt="Monroe" width="900"/> <br/> 
-
 <div align="center">
-    <img src="/assets/images/experimentDesign.png" alt="Image">
+    <img src="/assets/images/experimentDesign.png" alt="Image" width="900">
 </div>
 
 <div align="center">

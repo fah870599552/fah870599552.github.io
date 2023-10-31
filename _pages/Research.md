@@ -16,6 +16,11 @@ classes: wide
 
 <img src="/assets/images/experimentDesign.png" alt="Monroe" width="900"/> <br/> 
 
+< center> Experiment Scenario Design < /center>
+
+<div align="center">
+    Experiment Scenario Design
+</div>
 
 - The stimulus-organism-response theory is referred to describe the influence mechanism of abnormal emotions on driving behavior. The driver's dynamic cognitive features are further extracted.
 - Compared with advanced models, the proposed trajectory prediction method has significantly lower errors, especially in the scenarios of unprotected left turns and the sudden braking of the front car.

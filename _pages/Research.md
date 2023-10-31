@@ -16,7 +16,9 @@ classes: wide
 
 <img src="/assets/images/experimentDesign.png" alt="Monroe" width="900"/> <br/> 
 
-< center> Experiment Scenario Design < /center>
+<div align="center">
+    <img src="/assets/images/experimentDesign.png" alt="Image">
+</div>
 
 <div align="center">
     Experiment Scenario Design

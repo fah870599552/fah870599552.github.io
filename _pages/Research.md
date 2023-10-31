@@ -28,49 +28,90 @@ classes: wide
 - Established a multi-style driver model of left-turn vehicle interaction at the intersection based on the actual collected trajectory data to meet the heterogeneity of drivers in the actual traffic environment. 
 - Deployed the established driver model in VTD simulation software and provided a test environment that can adjust the heterogeneity of traffic flow for the autonomous driving algorithm.
 
-- ["Health Outcomes, Information Costs, and the Rise of Telehealth during the COVID-19 Pandemic"](https://austinknies.github.io/AK_RiseofTelehealth_WP.pdf) (Latest Draft: *August 2023*)
+## PUBLICATION
+### Article:
+**Tang, L.**, Zhang, D., Han, Y., Tian, Y., Sun, J.* (2023), Parallel-Computing-Based Calibration for Microscopic Traffic Simulation Model, Transportation Research Record, Washington, DC.
 
-   **Abstract**: How has the increase in synchronous telemedicine services throughout the COVID-19 pandemic impacted patient health outcomes? Using 2018-2022q1 claims data from Optum’s de-identified Clinformatics®️ Data Mart Database, I examine differences in telehealth and face-to-face care for office and outpatient evaluation and management (E/M) service claims, where telehealth coding has been the most frequent. Telehealth usage is associated with higher likelihood of patient mortality and ER visit within 6 months of E/M service claim, where I find an average effect of 5 additional deaths and 13 additional ER visits per 1,000 patients in the post-March 2020 period. To explain observed differences in health outcomes across visit modalities, I model the physician-patient interaction as a costly information acquisition problem, where rationally inattentive physicians learn about the patient’s health status through costly signals. Estimated increases in information costs with telehealth usage range between 5 to 29 percent on average after March 2020. These findings quantify the consequences of using telehealth as a substitute for in-person care.
+**Tang, L.**, Yue, L*, Zhou, X., Fu, A., Li, Z. (2023), CPSOR-GCN: A trajectory prediction method considering emotion in pre-crash scenarios based on SOR theory. **(submitted for publication)**
 
-## Publications
+### Presentation:
+**Tang, L.**, Yue, L*, Fu, A. (2023), Interactive Vehicle Trajectory Prediction Considering Abnormal Emotion Based on SOR Cognitive Framework, 2023 7th CAA International Conference on Vehicular Control and Intelligence (CVCI).
 
-- ["A Recursive Logit Model with Choice Aversion and Its Application to Transportation Networks."](https://doi.org/10.1016/j.trb.2021.10.011) (2022)
+**Tang, L.**, Han, Y., Zhang, D., Tian, Y., Sun, J.* (2021), Parallel Computing-based Calibration for Microscopic Traffic Simulation Model, Transportation Research Board 101st Annual Meeting (TRB).
 
-   Co-authors: Jorge Lorca, Emerson Melo
-   
-   **Transportation Research Part B: Methodological, Volume 155, January 2022, Pages 47-71**
-   
-   [[Code](https://github.com/austinknies/choiceaversion_recursivelogit)]
+**Tang, L.**, Yue, L.* (2023), CPSOR-GCN: An Interactive Vehicle Trajectory Prediction Method Considering Emotion Based on SOR Cognitive Theory, 2023 2nd International Conference of Human Performance Modelling and Augmentation (HPMA).
 
-## Working Papers
+Liu, S., Zhang, Q., Wang, P., Feng, B., Huang, C., Zhang, Y., **Tang, L.**, Yue, L., Sun, J. (2023), Enhance SIL Simulation Through Driver Behaviour Modeling at Unprotected Left-turn Scenario for Autonomous Driving SOTIF Analysis, 2023 7th International Conference on Intelligent Traffic and Transportation (ICITT).
 
-- ["Effects of Public Price Transparency Tools on Shopping for Health Care"](https://austinknies.github.io/Effects_PriceTransparency_SFC_Knies2023.pdf) (Latest Draft: *September 2023*)
-  
-## Works in Progress
+Fu, A., Zhang, H., **Tang, L.**, Tian, Y. * (2023), Accelerated Verification of Autonomous Driving Systems based on Subset Simulation, Transportation Research Board 103rd Annual Meeting (TRB).
 
-- "Heterogeneous Information Processing and Health Insurance Choice"
 
-   Project: *Using Medicare Current Beneficiary Survey to study traditional Medicare and Medicare Advantage beneficiary choices*
+[//]: # (- ["Health Outcomes, Information Costs, and the Rise of Telehealth during the COVID-19 Pandemic"]&#40;https://austinknies.github.io/AK_RiseofTelehealth_WP.pdf&#41; &#40;Latest Draft: *August 2023*&#41;)
 
-   Co-authors: Michael DeDad, Volodymyr Lugovskyy, Emerson Melo, Alexandre Skiba
-   
-- "Social and Neighborhood Determinants of Healthcare: Medical Appointments No-Show Rates in Urban and Rural Indiana"
+[//]: # ()
+[//]: # (   **Abstract**: How has the increase in synchronous telemedicine services throughout the COVID-19 pandemic impacted patient health outcomes? Using 2018-2022q1 claims data from Optum’s de-identified Clinformatics®️ Data Mart Database, I examine differences in telehealth and face-to-face care for office and outpatient evaluation and management &#40;E/M&#41; service claims, where telehealth coding has been the most frequent. Telehealth usage is associated with higher likelihood of patient mortality and ER visit within 6 months of E/M service claim, where I find an average effect of 5 additional deaths and 13 additional ER visits per 1,000 patients in the post-March 2020 period. To explain observed differences in health outcomes across visit modalities, I model the physician-patient interaction as a costly information acquisition problem, where rationally inattentive physicians learn about the patient’s health status through costly signals. Estimated increases in information costs with telehealth usage range between 5 to 29 percent on average after March 2020. These findings quantify the consequences of using telehealth as a substitute for in-person care.)
 
-   Project: *Using patient health records and appointment scheduling information from the Indiana Health Information Exchange through Regenstrief Institute Data Core to study no-show behavior*
+[//]: # ()
+[//]: # (## Publications)
 
-   Co-authors: Volodymyr Lugovskyy, Patrick Shih
+[//]: # ()
+[//]: # (- ["A Recursive Logit Model with Choice Aversion and Its Application to Transportation Networks."]&#40;https://doi.org/10.1016/j.trb.2021.10.011&#41; &#40;2022&#41;)
 
-## Experience
+[//]: # ()
+[//]: # (   Co-authors: Jorge Lorca, Emerson Melo)
 
-- Research Assistant for Angela Campbell, School of Public Health, Indiana University (*Summer 2023 - Present*)
+[//]: # (   )
+[//]: # (   **Transportation Research Part B: Methodological, Volume 155, January 2022, Pages 47-71**)
 
-## Additional Projects
+[//]: # (   )
+[//]: # (   [[Code]&#40;https://github.com/austinknies/choiceaversion_recursivelogit&#41;])
 
-- ["Fraud Detection with Medicare Provider Data"](https://github.com/austinknies/fall22-bloom/blob/main/Executive%20Summary.pdf) (*2022*)
+[//]: # ()
+[//]: # (## Working Papers)
 
-   Collaborators: Jonathan Leslie
-   
-   Created for Erdős Institute's Fall 2022 Code Data Science Boot Camp
-   
-   [[Code](https://github.com/austinknies/fall22-bloom)] 
-   [[Slides](https://github.com/austinknies/fall22-bloom/blob/main/Slides.pdf)]
+[//]: # ()
+[//]: # (- ["Effects of Public Price Transparency Tools on Shopping for Health Care"]&#40;https://austinknies.github.io/Effects_PriceTransparency_SFC_Knies2023.pdf&#41; &#40;Latest Draft: *September 2023*&#41;)
+
+[//]: # (  )
+[//]: # (## Works in Progress)
+
+[//]: # ()
+[//]: # (- "Heterogeneous Information Processing and Health Insurance Choice")
+
+[//]: # ()
+[//]: # (   Project: *Using Medicare Current Beneficiary Survey to study traditional Medicare and Medicare Advantage beneficiary choices*)
+
+[//]: # ()
+[//]: # (   Co-authors: Michael DeDad, Volodymyr Lugovskyy, Emerson Melo, Alexandre Skiba)
+
+[//]: # (   )
+[//]: # (- "Social and Neighborhood Determinants of Healthcare: Medical Appointments No-Show Rates in Urban and Rural Indiana")
+
+[//]: # ()
+[//]: # (   Project: *Using patient health records and appointment scheduling information from the Indiana Health Information Exchange through Regenstrief Institute Data Core to study no-show behavior*)
+
+[//]: # ()
+[//]: # (   Co-authors: Volodymyr Lugovskyy, Patrick Shih)
+
+[//]: # ()
+[//]: # (## Experience)
+
+[//]: # ()
+[//]: # (- Research Assistant for Angela Campbell, School of Public Health, Indiana University &#40;*Summer 2023 - Present*&#41;)
+
+[//]: # ()
+[//]: # (## Additional Projects)
+
+[//]: # ()
+[//]: # (- ["Fraud Detection with Medicare Provider Data"]&#40;https://github.com/austinknies/fall22-bloom/blob/main/Executive%20Summary.pdf&#41; &#40;*2022*&#41;)
+
+[//]: # ()
+[//]: # (   Collaborators: Jonathan Leslie)
+
+[//]: # (   )
+[//]: # (   Created for Erdős Institute's Fall 2022 Code Data Science Boot Camp)
+
+[//]: # (   )
+[//]: # (   [[Code]&#40;https://github.com/austinknies/fall22-bloom&#41;] )
+
+[//]: # (   [[Slides]&#40;https://github.com/austinknies/fall22-bloom/blob/main/Slides.pdf&#41;])

@@ -34,6 +34,12 @@ classes: wide
 - The proposed parallel calibration algorithm can shorten the calibration process from 5 hours to less than 1 hour, reducing the calibration time by 80%.
 - The results of this study help to achieve rapid calibration of microscopic traffic simulation parameters.
 
+<div align="center">
+    <img src="/assets/images/firework.png" alt="Image" width="900">
+</div>
+<div align="center">
+    <img src="/assets/images/histgram.png" alt="Image" width="900">
+</div>
 ### Project: Driver Modelling and Scenario Generation – Huawei Technologies Co., Ltd.
 - Established a multi-style driver model of left-turn vehicle interaction at the intersection based on the actual collected trajectory data to meet the heterogeneity of drivers in the actual traffic environment. 
 - Deployed the established driver model in VTD simulation software and provided a test environment that can adjust the heterogeneity of traffic flow for the autonomous driving algorithm.

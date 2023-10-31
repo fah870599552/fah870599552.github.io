@@ -13,18 +13,19 @@ classes: wide
 
 - A driver trajectory prediction method addresses the false alarm of the active safety system by considering the influence of the driver's abnormal emotions.
 - The prediction model takes into account both the physical movement features and cognitive features, and the accuracy of the prediction method is verified through realistic driving simulator experiments.
+- The stimulus-organism-response theory is referred to describe the influence mechanism of abnormal emotions on driving behavior. The driver's dynamic cognitive features are further extracted.
+- Compared with advanced models, the proposed trajectory prediction method has significantly lower errors, especially in the scenarios of unprotected left turns and the sudden braking of the front car.
+- This method can be integrated into the active safety system, making the system better adapt to drivers in abnormal emotions, and effectively reducing false alarms.
 
 <div align="center">
     <img src="/assets/images/experimentDesign.png" alt="Image" width="900">
 </div>
-
 <div align="center">
-    Experiment Scenario Design
+    <img src="/assets/images/predictionFramework.png" alt="Image" width="900">
 </div>
-
-- The stimulus-organism-response theory is referred to describe the influence mechanism of abnormal emotions on driving behavior. The driver's dynamic cognitive features are further extracted.
-- Compared with advanced models, the proposed trajectory prediction method has significantly lower errors, especially in the scenarios of unprotected left turns and the sudden braking of the front car.
-- This method can be integrated into the active safety system, making the system better adapt to drivers in abnormal emotions, and effectively reducing false alarms.
+<div align="center">
+    <img src="/assets/images/predictionAblity.png" alt="Image" width="900">
+</div>
 
 ### Parallel Computing-based Calibration for Microscopic Traffic Simulation Model
 - A microscopic traffic simulation calibration algorithm based on parallel computing to solve the problem of long time and low efficiency of the heuristic calibration algorithms.

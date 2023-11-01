@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "Skills"
+permalink: /skills/
 classes: wide
 
 ---

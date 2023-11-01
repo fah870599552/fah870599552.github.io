@@ -19,10 +19,10 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/olie.png
-    alt: "Teaching"
-    title: "Teaching Experience"
-    excerpt: "Courses I have taught. Syllabi available upon request."
-    url: "/teaching/"
+    alt: "Skills"
+    title: "Skills"
+    excerpt: "Professional skills I have acquired."
+    url: "/skills/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/olie.png

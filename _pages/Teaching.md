@@ -5,22 +5,34 @@ classes: wide
 
 ---
 
-- ECON-B 251, *Fundamentals of Economics for Business I*, Indiana University
+#### Good English ability for reading and communications
 
-  Format: F2F
-  
-  **Spring 2022**
+- Having completed several presentations at academic conferences and has good English expression skills.
 
-- ECON-E 251, *Fundamentals of Economics I*, Indiana University
+#### Abundant experience in deep learning and machine learning:
 
-  Format: Online/Asynchronous & F2F
-  
-  **Fall 2020, Spring 2021, Fall 2021**
-  
-- ECON-E 201, *Intro to Microeconomics*, Indiana University
+- Proficiency in both PyTorch and TensorFlow, possessing a strong grasp of deep learning and machine learning concepts, can address problems such as overfitting and gradient explosion.
+- Having rich experience in deep learning and scientific research experience in using GCN, LSTM, and BiLSTM models for trajectory prediction. 
 
-  Format: F2F (prior to March 2020)
-  
-  **Fall 2019, Spring 2020**
+#### Abundant experience in heuristic optimization algorithms and parallel computing technology:
 
-Syllabi available upon request.
+- Proficient in particle swarm optimization (PSO) and genetic algorithm (GA) to solve optimization problems.
+- Proficient in parallel computing technology in accelerated algorithms.
+
+#### Strong communication and collaboration skills and strong execution ability
+
+- Once served as the main personnel to complete the deployment and implementation of research work in a school-enterprise cooperation project with Huawei Technology Company.
+
+#### Strong programming ability and rich experience in driving simulator development
+
+- Proficiency with Python and MATLAB. Having extensive experience in deploying autonomous driving models in simulation environments.
+
+- Proficient in using simulation platforms such as Carla, Vissim, Sumo, and VTD, and software such as UE4 and roadRunner, and having experience in building and experimenting with driving simulator environments (based on UE4 and Carla). Part of the driving simulation platform development experience is shown below:
+
+<div align="center">
+    <img src="/assets/images/SimulationExperimentPlatform.png" alt="Image" width="900">
+</div>
+
+<div align="center">
+    <img src="/assets/images/image36.gif" alt="gif" width="900">
+</div>

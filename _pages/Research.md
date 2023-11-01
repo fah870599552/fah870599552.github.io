@@ -44,6 +44,13 @@ classes: wide
 - Established a multi-style driver model of left-turn vehicle interaction at the intersection based on the actual collected trajectory data to meet the heterogeneity of drivers in the actual traffic environment. 
 - Deployed the established driver model in VTD simulation software and provided a test environment that can adjust the heterogeneity of traffic flow for the autonomous driving algorithm.
 
+<div align="center">
+    <img src="/assets/images/interaction.png" alt="Image" width="900">
+</div>
+
+<div align="center">
+    <img src="/assets/images/histogram2.png" alt="Image" width="900">
+</div>
 ## PUBLICATION
 ### Article:
 **Tang, L.**, Zhang, D., Han, Y., Tian, Y., Sun, J.* (2023), Parallel-Computing-Based Calibration for Microscopic Traffic Simulation Model, Transportation Research Record, Washington, DC.
@@ -61,4 +68,8 @@ Liu, S., Zhang, Q., Wang, P., Feng, B., Huang, C., Zhang, Y., **Tang, L.**, Yue,
 
 Fu, A., Zhang, H., **Tang, L.**, Tian, Y. * (2023), Accelerated Verification of Autonomous Driving Systems based on Subset Simulation, Transportation Research Board 103rd Annual Meeting (TRB).
 
+<img src="/assets/images/presentation.jpg" alt="pic" width="450"/> <img src="/assets/images/presentation2.jpg" alt="IAxTWF" width="pic2"/> <br/>
+<div align="center">
+    <img src="/assets/images/poster.png" alt="Image" width="900">
+</div>
 ![](/assets/images/image36.gif)

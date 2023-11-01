@@ -33,6 +33,7 @@ classes: wide
     <img src="/assets/images/SimulationExperimentPlatform.png" alt="Image" width="900">
 </div>
 
-<div align="center">
-    <img src="/assets/images/image36.gif" alt="gif" width="900">
-</div>
+<img src="/assets/images/suddenBrake.gif" alt="pic" width="450"/> <img src="/assets/images/cutin.gif" alt="pic2" width="450"/> <br/>
+
+<img src="/assets/images/congestion.gif" alt="pic" width="450"/> <img src="/assets/images/flash.gif" alt="pic2" width="450"/> <br/>
+

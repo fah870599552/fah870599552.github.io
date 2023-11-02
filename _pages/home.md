@@ -11,21 +11,21 @@ header:
 excerpt: >
   Just learning more about how little I know.
 feature_row:
-  - image_path: /assets/images/olie.png
+  - image_path: /assets/images/presentation.jpg
     alt: "Research"
     title: "Research"
     excerpt: "Current and past projects, including any relevant code and documentation."
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/olie.png
+  - image_path: /assets/images/threeScreen.jpg
     alt: "Skills"
     title: "Skills"
     excerpt: "Professional skills I have acquired."
     url: "/skills/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/olie.png
+  - image_path: /assets/images/image21.jpg
     alt: "About Me"
     title: "About Me"
     excerpt: "My background and interests."

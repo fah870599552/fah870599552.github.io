@@ -40,7 +40,7 @@ classes: wide
 <img src="/assets/images/congestion.gif" alt="pic" width="450"/> <img src="/assets/images/flash.gif" alt="pic2" width="450"/>
 <center>Emotion-inducing Scenarios</center>
 
-<img src="/assets/images/HMI.png" alt="pic" width="450" height = "220"/> <img src="/assets/images/threeScreen.jpg" alt="pic2" width="450"/>
+<img src="/assets/images/HMI.png" alt="pic" width="450" /> <img src="/assets/images/threeScreen.jpg" alt="pic2" width="450"/>
 <center>Virtual Cockpit Implementation</center>
 
 <div align="center">

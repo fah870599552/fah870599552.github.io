@@ -9,7 +9,7 @@ classes: wide
 
 ## RESEARCH EXPERIENCE
 
-### Emotion-Incorporated Trajectory Prediction in Pre-Crash Scenarios: A CPSOR-GCN Approach Grounded in SOR Theory
+### Modeling the influence mechanism of emotions on driving behavior in pre-crash scenarios for ADAS application
 - A driver trajectory prediction method addresses the false alarm of the active safety system by considering the influence of the driver's abnormal emotions.
 - The prediction model takes into account both the physical movement features and cognitive features, and the accuracy of the prediction method is verified through realistic driving simulator experiments.
 - The stimulus-organism-response theory is referred to describe the influence mechanism of abnormal emotions on driving behavior. The driver's dynamic cognitive features are further extracted.
@@ -22,7 +22,7 @@ classes: wide
 
 <img src="/assets/images/predictionFramework.png" alt="pic" width="450"/> <img src="/assets/images/predictionAblity.png" alt="pic2" width="450"/> <br/>
 
-### Parallel Computing-based Calibration for Microscopic Traffic Simulation Model
+### Calibration of lane-drop bottleneck micro simulation model accelerated by parallel computing 
 - A microscopic traffic simulation calibration algorithm based on parallel computing to solve the problem of long time and low efficiency of the heuristic calibration algorithms.
 - A microscopic simulation model was built on SUMO. Parallel computing technology is applied to heuristic calibration algorithms so that the simulation model can accurately reproduce actual traffic flow.
 - Implemented the parallelization of the genetic algorithm (GA) and particle swarm optimization (PSO) calibration algorithm Following the three steps of parallel framework selection, algorithm bottleneck identification, and subtask load balancing.
@@ -41,14 +41,12 @@ classes: wide
 ### JOURNAL PUBLICATION:
 **Tang, L.**, Zhang, D., Han, Y., Tian, Y., Sun, J.* (2023), Parallel-Computing-Based Calibration for Microscopic Traffic Simulation Model, Transportation Research Record, Washington, DC.
 
-**Tang, L.**, Yue, L*, Zhou, X., Fu, A., Li, Z. (2023), CPSOR-GCN: A trajectory prediction method considering emotion in pre-crash scenarios based on SOR theory. **(submitted for publication)**
+**Tang, L.**, Yue, L*, Zhou, X., Fu, A., Li, Z. (2023), CPSOR-GCN: A Vehicle Trajectory Prediction Method Powered by Emotion and Cognitive Theory. **(submitted to Transportation Research Part C)**
 
 ### CONFERENCE PUBLICATION:
 **Tang, L.**, Yue, L*, Fu, A. (2023), Interactive Vehicle Trajectory Prediction Considering Abnormal Emotion Based on SOR Cognitive Framework, 2023 7th CAA International Conference on Vehicular Control and Intelligence (CVCI).
 
 **Tang, L.**, Han, Y., Zhang, D., Tian, Y., Sun, J.* (2021), Parallel Computing-based Calibration for Microscopic Traffic Simulation Model, Transportation Research Board 101st Annual Meeting (TRB).
-
-**Tang, L.**, Yue, L.* (2023), CPSOR-GCN: An Interactive Vehicle Trajectory Prediction Method Considering Emotion Based on SOR Cognitive Theory, 2023 2nd International Conference of Human Performance Modelling and Augmentation (HPMA).
 
 Liu, S., Zhang, Q., Wang, P., Feng, B., Huang, C., Zhang, Y., **Tang, L.**, Yue, L., Sun, J. (2023), Enhance SIL Simulation Through Driver Behaviour Modeling at Unprotected Left-turn Scenario for Autonomous Driving SOTIF Analysis, 2023 7th International Conference on Intelligent Traffic and Transportation (ICITT).
 

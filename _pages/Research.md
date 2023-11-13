@@ -53,7 +53,7 @@ Liu, S., Zhang, Q., Wang, P., Feng, B., Huang, C., Zhang, Y., **Tang, L.**, Yue,
 Fu, A., Zhang, H., **Tang, L.**, Tian, Y. * (2023), Accelerated Verification of Autonomous Driving Systems based on Subset Simulation, Transportation Research Board 103rd Annual Meeting (TRB).
 
 ### PATENT
-**Tang, L.**, Yue, L*, Zhou, X., Fu, A., Li, Z., A Vehicle Trajectory Prediction Method Considering Driver's Abnormal Emotions. *Chinese Patent*, 2023.
+**Tang, L.**, Yue, L*, Zhou, X., Fu, A., Li, Z., A Vehicle Trajectory Prediction Method Considering Driver's Abnormal Emotions. *Chinese Patent* , 2023.
 
 <br/> 
 <img src="/assets/images/presentation.jpg" alt="pic" width="450"/> <img src="/assets/images/presentation2.jpg" alt="pic2" width="450"/> <br/>

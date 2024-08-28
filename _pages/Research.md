@@ -39,9 +39,11 @@ classes: wide
 
 ## PUBLICATION
 ### JOURNAL PUBLICATION:
-**Tang, L.**, Zhang, D., Han, Y., Tian, Y., Sun, J.* (2023), Parallel-Computing-Based Calibration for Microscopic Traffic Simulation Model, Transportation Research Record, Washington, DC.
+**Tang, L.**, Zhang, D., Han, Y., Tian, Y., Sun, J.* (2023), Parallel-Computing-Based Calibration for Microscopic Traffic Simulation Model, Transportation Research Record, Washington, DC. (IF = 2.019)
 
-**Tang, L.**, Yue, L*, Yuan, J., Sun, J., Fu, A. (2023), CPSOR-GCN: A Vehicle Trajectory Prediction Method Powered by Emotion and Cognitive Theory. **(submitted to Expert Systems with Applications)**
+**Tang, L.**, Yue, L*, Yuan, J., Sun, J., Fu, A. (2023), CPSOR-GCN: A Vehicle Trajectory Prediction Method Powered by Emotion and Cognitive Theory. **(under second round of review of Journal of Intelligent Transportation Systems) (IF = 3.839)**
+
+Tian, Y, Fu, A., Zhang, H, **Tang L.**, Sun, J (2024) Accelerated Verification of Autonomous Driving Systems based on Adaptive Subset Simulation, IEEE Transactions on Intelligent Vehicles. (IF = 14)
 
 ### CONFERENCE PUBLICATION:
 **Tang, L.**, Yue, L*, Fu, A. (2023), Interactive Vehicle Trajectory Prediction Considering Abnormal Emotion Based on SOR Cognitive Framework, 2023 7th CAA International Conference on Vehicular Control and Intelligence (CVCI).

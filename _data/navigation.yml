@@ -10,5 +10,7 @@ main:
     url: /publication/
   - title: "Skills"
     url: /skills/
+  - title: "Presentation"
+    url: /presentation/
   - title: "About Me"
     url: /aboutme/

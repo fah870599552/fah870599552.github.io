@@ -6,6 +6,8 @@ main:
     url: /TangLanYueCV.pdf
   - title: "Research"
     url: /research/
+  - title: "Publication"
+    url: /publication/
   - title: "Skills"
     url: /skills/
   - title: "About Me"
